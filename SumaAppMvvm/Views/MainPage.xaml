@@ -41,7 +41,7 @@
             <Label Text="{Binding Resultado}"
                    FontSize="18"
                    TextColor="White"
-                   HorizontalOptions="Center"  />
+                   HorizontalOptions="Center" />
         </Frame>
     </StackLayout>
 </ContentPage>
