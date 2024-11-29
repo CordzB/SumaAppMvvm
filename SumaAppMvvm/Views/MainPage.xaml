@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:SumaAppMvvm.ViewModels"
              x:Class="SumaAppMvvm.Views.MainPage">
     <StackLayout Padding="20" Spacing="15">
-        <Label Text="Suma de Valores" FontSize="24" HorizontalOptions="Center" />
+        <Label Text="APLICACION DE SUMAS" FontSize="24" HorizontalOptions="Center" />
 
         
         <Entry Placeholder="Ingrese el primer número"
